@@ -1,2 +1,2 @@
-This is my second Git Repository
-Author Naveen
+This is my second Git Repository.
+Author-Naveen
